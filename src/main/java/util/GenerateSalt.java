@@ -19,6 +19,7 @@ public class GenerateSalt {
 			sb.append(CHARACTORS.charAt(rnd.nextInt(CHARACTORS.length())));
 		}
 
+		
 		return sb.toString();
 	}
 }
