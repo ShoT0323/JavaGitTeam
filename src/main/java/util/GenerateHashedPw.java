@@ -65,6 +65,7 @@ public class GenerateHashedPw {
         }
         return sb.toString();
     }
+
     public static void main(String[] args) {
     	String pw ="morijyobi";
     	String salt = "AFDS2093ASGRoi93";
