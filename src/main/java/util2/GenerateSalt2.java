@@ -1,8 +1,8 @@
-package util;
+package util2;
 
 import java.util.Random;
 
-public class GenerateSalt {
+public class GenerateSalt2 {
 
 	/**
 	 * 引数で受け取った数字の桁数分のランダムな文字列を生成する。

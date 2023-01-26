@@ -1,4 +1,4 @@
-package util;
+package util2;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.spec.InvalidKeySpecException;
@@ -7,7 +7,7 @@ import javax.crypto.SecretKey;
 import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.PBEKeySpec;
 
-public class GenerateHashedPw {
+public class GenerateHashedPw2 {
     /** パスワードを安全にするためのアルゴリズム */
     private static final String ALGORITHM = "PBKDF2WithHmacSHA256";
     /** ストレッチング回数 */
