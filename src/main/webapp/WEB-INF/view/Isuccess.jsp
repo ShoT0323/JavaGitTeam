@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>ログイン画面</title>
+<title>登録成功</title>
 </head>
 <body>
-
-<a href="RegisterForm">新規</a>
+<h2>登録成功	</h2>
 </body>
 </html>
